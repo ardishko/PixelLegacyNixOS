@@ -61,3 +61,7 @@ Open `/etc/nixos/configuration.nix` (or the relevant module if using flakes) and
   environment.variables.PW_APPID = "636040";
 }
 ```
+
+### TODO
+
+Putting this in a flake and writing an option to make it easy for others to use
