@@ -9,14 +9,13 @@ Pixel Legacy is a community-run continuation of Pixel Worlds, hosted on custom s
 
 This README walks you through doing this the **NixOS way** — fully declarative, reproducible, and without running imperative scripts.
 
----
 
 ## ⚠ Disclaimer
 
 Pixel Legacy is **not** affiliated with the original Pixel Worlds developers or publishers.
 
 
----
+
 
 ## 📋 Prerequisites
 
@@ -24,7 +23,6 @@ Pixel Legacy is **not** affiliated with the original Pixel Worlds developers or 
 - Basic familiarity with editing `configuration.nix` and rebuilding your system
 - The Pixel Legacy Root CA certificate file (`rootCA.crt`) from the Pixel Legacy setup files
 
----
 
 ## 🛠 Setup
 
@@ -36,7 +34,7 @@ Link: https://mega.nz/file/LEtFWI7L#pxUMkC5mibkPjcP6vR6OxPbx0N2ESclnwEh10uHUoGQ
 
 (`rootCA.crt` is inside "Pixel Legact Automated For PC" -> "Install Pixel Legacy (Steam)" -> "Step 2" in the archive.)
 
----
+
 
 ### 2. Edit your NixOS configuration
 
@@ -64,4 +62,4 @@ Open `/etc/nixos/configuration.nix` (or the relevant module if using flakes) and
 
 ### TODO
 
-Putting this in a flake and writing an option to make it easy for others to use
+- Putting this in a flake and writing an option to make it easy for others to use
