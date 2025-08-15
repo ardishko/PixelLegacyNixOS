@@ -34,7 +34,7 @@ Download the certificate file (`rootCA.crt`) from the official Pixel Legacy Disc
 
 Link: https://mega.nz/file/LEtFWI7L#pxUMkC5mibkPjcP6vR6OxPbx0N2ESclnwEh10uHUoGQ
 
-(`rootCA` is inside "Pixel Legact Automated For PC" -> "Install Pixel Legacy (Steam)" -> "Step 2" in the archive.)
+(`rootCA.crt` is inside "Pixel Legact Automated For PC" -> "Install Pixel Legacy (Steam)" -> "Step 2" in the archive.)
 
 ---
 
